@@ -16,5 +16,5 @@ DxG Hub Cracked By RuMiNDev
 
 [ 스크립트 사용방법 ]
 ```lua
-loadstring(game:HttpGet("https://pastebin.com/raw/vknJNFTN"))
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RuMiNDev/Xx-Area5/main/anywaysformat.lua"))();
 ```
